@@ -1,9 +1,9 @@
 # TODO
 
 # MY MAIN SCRIPTS
-- [ ] setup-pg.sh
-- [ ] newdb-pg.sh
-- [ ] setup-ftp.sh
+- [x] setup-pg.sh
+- [x] newdb-pg.sh
+- [x] setup-ftp.sh
 - [ ] newuser-ftp.sh
 - [ ] setup-redis.sh
 - [ ] setup-caddy.sh
