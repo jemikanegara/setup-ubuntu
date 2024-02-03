@@ -5,7 +5,7 @@
 - [x] newdb-pg.sh
 - [x] setup-ftp.sh
 - [ ] newuser-ftp.sh
-- [ ] setup-redis.sh
+- [x] setup-redis.sh
 - [ ] setup-caddy.sh
 
 # ALTERNATIVE SCRIPTS
