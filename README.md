@@ -21,3 +21,4 @@
 - [ ] setup-php.sh
 - [ ] setup-phpmyadmin.sh
 - [ ] setup-wordpress.sh
+- [ ] setup-postfix.sh (mail server)
