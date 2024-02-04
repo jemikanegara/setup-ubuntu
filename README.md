@@ -6,11 +6,12 @@
 - [x] setup-ftp.sh
 - [ ] newuser-ftp.sh
 - [x] setup-redis.sh
-- [ ] setup-caddy.sh
+- [x] setup-caddy.sh
+- [x] delete-caddy.sh
 
 # ALTERNATIVE SCRIPTS
 - [ ] setup-nginx.sh
-- [ ] setup-ssl.sh
+- [ ] setup-nginx-ssl.sh (certbot)
 - [ ] setup-minio.sh / setup-seaweedfs.sh
 
 # OTHER SCRIPTS
